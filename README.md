@@ -80,8 +80,10 @@ The primary goal of this dashboard is to empower banking officials and risk anal
 ---
 ## 📸 Dashboard Walkthrough & Screenshots
 
-### 1. Loan Default & Overview
-![Loan Default & Overview](images/01_loan_default_overview.png)
-
----
+### 1. Loan Default & Overview Dashboard
+![Loan Default & Overview](https://github.com/AmitBhagat-git/LOAN-DEFAULT-OVERVIEW/blob/main/LOAN%20DEFAULT%20%26%20OVERVIEW.png)
+### 2. Financial Risk Metrics Dashboard
+![Financial Risk Metrics](https://github.com/AmitBhagat-git/LOAN-DEFAULT-OVERVIEW/blob/main/Financial%20Risk%20Metrics.png)
+### 3. Applicant Demographics & Financial Profile Dashboard
+![Applicant Demographics & Financial Profile](https://github.com/AmitBhagat-git/LOAN-DEFAULT-OVERVIEW/blob/main/demographi.png)
 
